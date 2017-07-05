@@ -1,0 +1,1 @@
+adding another files to check commiting all files at a time using git commit -a
